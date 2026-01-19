@@ -4,7 +4,7 @@ EB Garamond is intended to be an excellent, classical, Garamond. It is a communi
 
 Why another Garamond? That typeface is a key moment in the history of typography, and European type designers have been reacting to this work ever since. It is probably the most revived typeface in the world and many are excellent. In the world of free/libre culture, however, only a few Garamond-inspired types exist, and none share the scope of this project.
 
-# EB Garamond RCS
+## EB Garamond RCS
 
 This is a fork of EB Garamond 12 by Octavio Pardo, modified by Deborah Khodanovich to include custom citation glyphs for academic use and citation.
 
